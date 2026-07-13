@@ -41,7 +41,7 @@ Created distinct customer segments that help in understanding customer behavior 
 
 ---
 
-# 🔹 Task 3: Data Cleaning (Airbnb NYC Dataset)
+# 🔹 Task 3: Data Cleaning 
 
 ### 🎯 Objective
 To improve the quality of Airbnb listing data by cleaning and preparing it for further analysis.
